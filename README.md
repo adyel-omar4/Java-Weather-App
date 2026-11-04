@@ -1,5 +1,3 @@
-# Java-Weather-App
-A console-based weather application built with Java and Open-Meteo API.
 # Java Weather App
 
 **A console-based weather application developed in Java using the Open-Meteo API.**
